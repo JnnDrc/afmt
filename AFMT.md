@@ -8,7 +8,8 @@ This is the small afmt.h documentation
 - [with](#with)
 - [Styles](#styles)
 - [4-bit colors](#4-bit-colors)
-
+- [8-bit colors](#8-bit-colors)
+- [24-bit colors(rgb)](#24-bit-colorsRGB)
 ## fmt()
 
 ### SYNOPSIS
@@ -91,3 +92,7 @@ Underlines the text
 Reverses the foreground and background colors
 
 ## 4-bit colors
+
+## 8-bit colors
+
+## 24-bit-colors(RGB)
